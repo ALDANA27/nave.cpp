@@ -49,8 +49,17 @@ g++ nave.cpp -o nave
 ./nave
 ```
 
-## Integrantes
+## Integrantes y que hara cada uno
 
 - Carlos Anderson Aldana Rivas :00018226
+- Rama: `rama-carlos-estado`
+- Parte: lógica de estado y validación
+- Guardar si cada sistema está encendido o apagado, validar las opciones del menú y el login con roles.
 - Alessandro Enmanuel Barquero Lopez :00401421
+ `rama-alessandro-menu`
+- Parte: menú principal y diseño de la consola
+- Menú con `do-while` y `switch-case`, y las opciones de ayuda y integrantes.
+Rama 3 Carlos y alessandro
+- Rama: `rama-carlosyalessandro-evaluacion`
+- Simulación de las 5 fases del descenso, evaluación del final y reportes
 
